@@ -40,6 +40,7 @@ DOGED,Doge Dark Coin,D,30,158
 DOPE,Dopecoin,4,8,136
 DVC,Devcoin,1,0,128
 EFL,Electronic-Gulden-Foundation,L,48,176
+EGG,NestEgg-Coin,E,33,161
 EMC,Emercoin,E,33,128
 ETH,Ethereum,0x,,
 EXCL,Exclusivecoin,E,33,161
